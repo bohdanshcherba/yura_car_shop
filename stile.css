@@ -1,0 +1,58 @@
+h1
+{
+    margin:0;
+    margin-bottom:10px;
+    background-color: blueviolet;
+    color: white;
+
+}
+body {margin: 0;
+    font-family: sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+header {
+    width: 100%;
+    
+    margin-bottom: 20px;
+}
+
+.button {
+    background-color: #36bbce;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: block;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+footer{
+    display: flex;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    height:100px;
+    align-items: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.about{
+    background-color: blueviolet;
+    color: white;
+
+}
+
+.about p{
+    text-align: center;
+}
